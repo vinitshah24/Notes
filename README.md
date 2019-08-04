@@ -1,3 +1,1 @@
-# amrmat
-
-smlcodes.amrpt
+# Ameerpet Study Materials
